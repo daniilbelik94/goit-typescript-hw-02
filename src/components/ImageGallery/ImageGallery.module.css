@@ -1,0 +1,18 @@
+/* .containerImg {
+  position: relative;
+} */
+.listImages {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding-top: 90px;
+  margin: 0 0 20px 0;
+  list-style: none;
+  padding-left: 0;
+}
+.listItemImage {
+  overflow: hidden;
+  width: 400px;
+  height: 200px;
+}

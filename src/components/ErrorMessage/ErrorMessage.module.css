@@ -1,0 +1,16 @@
+.boxErrorMessage {
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.descriptionErrorMessage {
+  font-size: 30px;
+  color: red;
+}
+
+.message {
+  display: flex;
+  justify-content: center;
+}
